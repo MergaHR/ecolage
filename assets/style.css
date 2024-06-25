@@ -1,0 +1,23 @@
+.nav-pills li a:hover{
+    background-color: cornflowerblue ;
+}
+/* Ajoutez les styles pour chaque classe ici */
+.info-card {
+    background-color: #FFC0CB; /* Rose */
+}
+
+.gestion-card {
+    background-color: #00FF00; /* Vert */
+}
+
+.batiment-card {
+    background-color: #FFFF00; /* Jaune */
+}
+
+.communication-card {
+    background-color: #0000FF; /* Bleu */
+}
+
+.droit-card {
+    background-color: #F5F5DC; /* Beige */
+}
