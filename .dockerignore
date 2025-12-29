@@ -1,0 +1,13 @@
+.git
+.gitignore
+README.md
+database.sql
+deploy.sh
+railway-setup.md
+.DS_Store
+.env
+.env.example
+application/logs/*
+application/cache/*
+vendor/bin/phpunit
+tests/
